@@ -2,6 +2,6 @@ package testing
 
 import "fmt"
 
-func helper() {
+func Helper() {
 	fmt.Println("helpppppp")
 }
